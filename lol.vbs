@@ -1,0 +1,1 @@
+x=msgbox("Somebody once told me antiviruses are gonna roll me, i aint the best virus on the internet.",16,"DueWarp - Happy Birthday, Shrek!")
